@@ -12,8 +12,9 @@ Esses dados serão extraídos por uma ferramenta chamada [Octoparse](octoparse.c
 	
 
 ### **Formatação, normalização e padronização dos dados**
-Nessa etapa será feita uma análise para remoção de linhas duplicadas, remoção de nulos e vazios. Também irá ser criada uma nova variável(coluna) a partir de alguma informação que temos. Ficando assim com esse resultado:
-	- Id, video_title, video_link, channel_name, channel_link, total_views, publish_data, description, tags
+Nessa etapa será feita uma análise para remoção de linhas duplicadas, remoção de nulos e vazios. Também irá ser criada uma nova variável(coluna) a partir de alguma informação que temos e também uma para guardar o dia da semana relacionado a data de publicação. Ficando assim com esse resultado:
+	
+- Id, video_title, video_link, channel_name, channel_link, total_views, publish_data, description, tags, publish_day
 
 Ações:
 - [ ] Padronização de tempo de publicação para meses
