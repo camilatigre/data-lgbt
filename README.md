@@ -21,10 +21,15 @@ Ações:
 	- Fórmula: Taxa de visualizações diárias = Total de visualizações / Tempo decorrido desde a publicação
 - [ ] Criar coluna de "Dia da semana publicação" para descobrir qual era o dia da semana naquela data de públicação
 
-### Algumas Hipoteses para serem analisadas
-- [ ] Qual é a relação entre o número de visualizações e a data de publicação dos vídeos? Existe alguma tendência de crescimento ou declínio ao longo do tempo?
-- [ ] Exista alguma correlação entre o número de visualizações e o titulo do video? O que preciso para fazer essa análise?
-- [ ] Os vídeos com maior visualização foram postados em quais dias da semana? Tem correlação?
+### Algumas perguntas para serem analisadas
+- [ ] Os vídeos com maior visualização foram postados em quais dias da semana?
 - [ ] A média de visualização por canal tem correlação com os termos utilizados?
-- [ ] Os vídeos com maior visualização e menor visualização. Quais são eles e quais os termos utilizados?
-- [ ] Existe alguma correlação entre o número de visualizações e a duração dos vídeos?
+- [ ] Qual é a duração dos vídeos mais visualizados?
+- [ ] Qual é a duração dos vídeos mais visualizados?
+- [ ] Quais as tags **mais** utilizadas em vídeos de maior visualização?
+- [ ] Quais as tags **menos** utilizadas em vídeos de maior visualização?
+
+### Hipoteses
+1. Existe relação entre a duração do vídeo e o crescimento em visualizações de vídeo. -[ ] Verdadeiro - [ ] False
+2. Existe relação entre as tags utilizadas e o crescimento em visualizações de vídeo. -[ ] Verdadeiro - [ ] False
+3. Existe relação entre o dia da semana postado e o crescimento em visualizações de vídeo. -[ ] Verdadeiro - [ ] False
