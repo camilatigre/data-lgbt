@@ -1,4 +1,4 @@
-# LGBT Sentimental Analysis
+# LGBT Youtube Content Analysis
 ### O objetivo é entender alguns comportamentos relacionados ao uso de hashtags da comunidade lgbtqiap+ e o que isso pode significar quanto ao conteúdo postado no YouTube para esse público.
 
 ### **Onde conseguir dados?**
